@@ -6,7 +6,7 @@ Color Changing button.
 ### App Walk-though
 
 
-<img src="http://recordit.co/SMVBBMllxW" width=200><br>
+<img src="http://g.recordit.co/TSGyrbyn0A.gif" width=200><br>
 
 
 
